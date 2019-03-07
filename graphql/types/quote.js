@@ -1,3 +1,7 @@
+/*
+type 是定義什麼可以查，什麼不能查的地方。
+*/
+
 import {
     GraphQLObjectType,
     GraphQLString,
